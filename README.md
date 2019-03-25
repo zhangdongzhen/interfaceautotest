@@ -1,2 +1,0 @@
-# interfaceautotest
-框架
